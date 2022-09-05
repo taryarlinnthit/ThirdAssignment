@@ -1,3 +1,4 @@
+//created by Taryarlinnthit
 #include <stdio.h>
 int main(){
     int a,b,c,words = 0;
